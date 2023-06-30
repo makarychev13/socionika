@@ -1,0 +1,3 @@
+[submodule "themes/onelou2"]
+	path = themes/onelou2
+	url = https://github.com/jyygithub/hugo-theme-onelou
