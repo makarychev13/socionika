@@ -2,3 +2,4 @@ baseURL = 'https://makarychev13.github.io/socionika/'
 languageCode = 'en-us'
 title = 'Шиза, соционика и Ириска'
 theme = 'onelou2'
+themesDir = "themes"
